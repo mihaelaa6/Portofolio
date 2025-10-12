@@ -1,0 +1,55 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #8e44ad, #000000); /* Deep purple to black */
+  color: #fff;
+}
+
+.container {
+  width: 80%;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 2em;
+  color: #f9f9f8;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+#div-list {
+  display: inline-block;
+  text-align: left;
+  margin-top: 20px;
+}
+
+label {
+  margin-left: 8px;
+  font-size: 1.1em;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.2);
+  margin-right: 10px;
+}
+
+#tally {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #ffffff;
+}
+#checked-summary {
+  margin-top: 20px;
+  font-size: 1.2em;
+  color: #ffffff;
+  text-align: center;
+}

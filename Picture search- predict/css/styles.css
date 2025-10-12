@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  background: radial-gradient(circle at center, #a8e6cf, #379683);
+  color: #fff;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+#container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 60%;
+  margin-bottom: 20px;
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+}
+
+img {
+  border: 2px solid #ffffff;
+  max-width: 300px;
+  height: auto;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
