@@ -1,0 +1,11 @@
+
+Code
+Flask
+twilio
+python-dotenv
+openai
+requests
+If you want to be extra safe:
+
+Code
+deepgram-sdk
